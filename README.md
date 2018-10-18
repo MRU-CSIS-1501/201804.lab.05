@@ -22,7 +22,7 @@ For those who do not need the conversion (because you've kept up or have fewer l
 
 ## YOUR SKILL DRILLS
 
-The following are due by 9AM on October 9th:
+The following are due by 9AM on October 23rd:
 
 - lab-05 : for loop pair 1
 - lab-05 : for loop pair 1
